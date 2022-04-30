@@ -1,0 +1,1 @@
+This repo contain collection of scripts that automates tasks I have to do from time to time (so far there is only one script, but the plan is to add more :)). Scripts are independent from each other. 
